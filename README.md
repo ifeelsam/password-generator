@@ -10,21 +10,13 @@ This is a simple password generator built with React and Tailwind CSS.
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository:`git clone https://github.com/ifeelsam/password-generator.git`
 
-`git clone https://github.com/ifeelsam/password-generator.git`
+2. Navigate into the project directory:`cd password-generator`
 
-2. Navigate into the project directory:
+3. Install the dependencies:`npm install`
 
-`cd password-generator`
-
-3. Install the dependencies:
-
-`npm install`
-
-4. Start the development server:
-
-`npm run dev`
+4. Start the development server:`npm run dev`
 
 5. Open your browser and navigate to `http://localhost:3000`.
 
